@@ -1,0 +1,109 @@
+﻿InspectorDebugSession(4): StateChange: Start -> EntryPointBreakpointRegistered
+InspectorDebugSession(4): Constructed
+Launching 'CrashClickingMenu.iOS' on 'iPhone 5s iOS 10.3'...
+InspectorDebugSession(4): HandleTargetEvent: TargetReady
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Xamarin.iOS.dll [External]
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], string, string)' to /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:61 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], System.Type, System.Type)' to /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:68 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[])' to /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:73 [0x00000].
+Resolved pending breakpoint for 'UIKit.UIApplication.Main(string[], System.IntPtr, System.IntPtr)' to /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/UIKit/UIApplication.cs:78 [0x00000].
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.dll [External]
+Thread started:  #2
+InspectorDebugSession(4): HandleTargetEvent: ThreadStarted
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/CrashClickingMenu.iOS.exe
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Xamarin.Forms.Platform.iOS.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Xamarin.Forms.Core.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Runtime.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.ObjectModel.dll [External]
+2017-06-16 19:35:31.561 CrashClickingMenu.iOS[75694:2295494] warning: stat of /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Net.Http.dll.mdb failed: No such file or directory
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Core.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Mono.Security.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Xml.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.ComponentModel.Composition.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Collections.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Diagnostics.Debug.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Threading.Tasks.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Globalization.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.ComponentModel.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Xml.ReaderWriter.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Reflection.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Linq.Expressions.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.IO.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Dynamic.Runtime.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Threading.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Xamarin.Forms.Platform.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Runtime.Extensions.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Linq.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Reflection.Extensions.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Net.Http.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Runtime.Serialization.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.ServiceModel.Internals.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/CrashClickingMenu.dll
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Resources.ResourceManager.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/Xamarin.Forms.Xaml.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Text.RegularExpressions.dll [External]
+Loaded assembly: /Users/luba/Library/Developer/CoreSimulator/Devices/612A511B-86F2-41A6-8677-FD783EE312E5/data/Containers/Bundle/Application/0F95DC1D-9005-4DA4-AFA8-8CA1D4576D3B/CrashClickingMenu.iOS.app/.monotouch-64/System.Diagnostics.Tools.dll [External]
+InspectorDebugSession(4): HandleTargetEvent: TargetHitBreakpoint
+InspectorDebugSession(4): StateChange: EntryPointBreakpointRegistered -> EntryPointBreakpointHit
+InspectorDebugSession(4): AgentBridge.InjectAssembly: /Library/Frameworks/Xamarin.Interactive.framework/Versions/Current/Agents/iOS/Xamarin.Interactive.iOS.dll
+InspectorDebugSession(4): StateChange: EntryPointBreakpointHit -> BreakdanceInvoking
+Loaded assembly: /Library/Frameworks/Xamarin.Interactive.framework/Versions/Current/Agents/iOS/Xamarin.Interactive.iOS.dll [External]
+Loaded assembly: /Library/Frameworks/Xamarin.Interactive.framework/Versions/Current/Agents/iOS/Xamarin.Interactive.dll [External]
+InspectorDebugSession(4): StateChange: BreakdanceInvoking -> BreakdanceStarted
+[0:] *** Animate started..
+Thread started:  #4
+InspectorDebugSession(4): HandleTargetEvent: ThreadStarted
+2017-06-16 19:38:14.546 CrashClickingMenu.iOS[75694:2295778] critical: Stacktrace:
+
+2017-06-16 19:38:14.547 CrashClickingMenu.iOS[75694:2295778] critical:   at <unknown> <0xffffffff>
+2017-06-16 19:38:14.547 CrashClickingMenu.iOS[75694:2295778] critical:   at (wrapper managed-to-native) ObjCRuntime.Messaging.void_objc_msgSend_CATransform3D (intptr,intptr,CoreAnimation.CATransform3D) [0x0000b] in <58a9bd8a3cbb4d0092bc0a767ff66c0f>:0
+2017-06-16 19:38:14.548 CrashClickingMenu.iOS[75694:2295778] critical:   at CoreAnimation.CALayer.set_Transform (CoreAnimation.CATransform3D) [0x0000b] in /Users/builder/data/lanes/4691/d2270eec/source/xamarin-macios/src/build/ios/native/CoreAnimation/CALayer.g.cs:2225
+2017-06-16 19:38:14.548 CrashClickingMenu.iOS[75694:2295778] critical:   at Xamarin.Forms.Platform.iOS.VisualElementTracker/<>c__DisplayClass23_0.<OnUpdateNativeControl>b__0 () [0x003c3] in C:\BuildAgent3\work\ca3766cfc22354a1\Xamarin.Forms.Platform.iOS\VisualElementTracker.cs:203
+2017-06-16 19:38:14.549 CrashClickingMenu.iOS[75694:2295778] critical:   at Xamarin.Forms.Platform.iOS.CADisplayLinkTicker.StartThread () [0x00025] in C:\BuildAgent3\work\ca3766cfc22354a1\Xamarin.Forms.Platform.iOS\CADisplayLinkTicker.cs:60
+2017-06-16 19:38:14.549 CrashClickingMenu.iOS[75694:2295778] critical:   at System.Threading.ThreadHelper.ThreadStart_Context (object) [0x00014] in /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/src/mono/mcs/class/referencesource/mscorlib/system/threading/thread.cs:68
+2017-06-16 19:38:14.549 CrashClickingMenu.iOS[75694:2295778] critical:   at System.Threading.ExecutionContext.RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool) [0x00071] in /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/src/mono/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs:957
+2017-06-16 19:38:14.549 CrashClickingMenu.iOS[75694:2295778] critical:   at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool) [0x00000] in /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/src/mono/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs:904
+2017-06-16 19:38:14.55
+0 CrashClickingMenu.iOS[75694:2295778] critical:   at System.Threading.ExecutionContext.Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object) [0x0002b] in /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/src/mono/mcs/class/referencesource/mscorlib/system/threading/executioncontext.cs:893
+2017-06-16 19:38:14.550 CrashClickingMenu.iOS[75694:2295778] critical:   at System.Threading.ThreadHelper.ThreadStart () [0x00008] in /Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/src/mono/mcs/class/referencesource/mscorlib/system/threading/thread.cs:105
+2017-06-16 19:38:14.550 CrashClickingMenu.iOS[75694:2295778] critical:   at (wrapper runtime-invoke) object.runtime_invoke_void__this__ (object,intptr,intptr,intptr) [0x0004f] in <2f4074c3120b4d80802e10af84b67d41>:0
+2017-06-16 19:38:14.550 CrashClickingMenu.iOS[75694:2295778] critical: 
+Native stacktrace:
+2017-06-16 19:38:14.554 CrashClickingMenu.iOS[75694:2295778] critical: 	0   CrashClickingMenu.iOS               0x000000010ea63501 mono_handle_native_crash + 257
+2017-06-16 19:38:14.555 CrashClickingMenu.iOS[75694:2295778] critical: 	1   CrashClickingMenu.iOS               0x000000010ea705d0 mono_sigsegv_signal_handler + 288
+2017-06-16 19:38:14.555 CrashClickingMenu.iOS[75694:2295778] critical: 	2   libsystem_platform.dylib            0x000000011a862b3a _sigtramp + 26
+2017-06-16 19:38:14.555 CrashClickingMenu.iOS[75694:2295778] critical: 	3   ???                                 0x00007fbc4520115c 0x0 + 140446590308700
+2017-06-16 19:38:14.556 CrashClickingMenu.iOS[75694:2295778] critical: 	4   UIKit                               0x0000000112c284c8 -[UIViewAnimationState actionForLayer:forKey:forView:] + 99
+2017-06-16 19:38:14.556 CrashClickingMenu.iOS[75694:2295778] critical: 	5   UIKit                               0x0000000112c5387e +[UIView(Animation) _defaultUIViewActionForLayer:forKey:] + 111
+2017-06-16 19:38:14.556 CrashClickingMenu.iOS[75694:2295778] critical: 	6   UIKit                               0x00000001134323e4 -[UIView(UIKitManual) actionForLayer:forKey:] + 119
+2017-06-16 19:38:14.556 CrashClickingMenu.iOS[75694:2295778] critical: 	7   QuartzCore                          0x000000011c8414bc -[CALayer actionForKey:] + 437
+2017-06-16 19:38:14.557 CrashClickingMenu.iOS[75694:2295778] critical: 	8   QuartzCore                          0x000000011c83cade _ZL12actionForKeyP7CALayerPN2CA11TransactionEP8NSString + 76
+2017-06-16 19:38:14.557 CrashClickingMenu.iOS[75694:2295778] critical: 	9   QuartzCore                          0x000000011c83ca6c _ZN2CA5Layer12begin_changeEPNS_11TransactionEjRP11objc_object + 140
+2017-06-16 19:38:14.557 CrashClickingMenu.iOS[75694:2295778] critical: 	10  QuartzCore                          0x000000011c83ce04 _ZN2CA5Layer6setterEj12_CAValueTypePKv + 164
+2017-06-16 19:38:14.557 CrashClickingMenu.iOS[75694:2295778] critical: 	11  QuartzCore                          0x000000011c83e371 -[CALayer setTransform:] + 68
+2017-06-16 19:38:14.558 CrashClickingMenu.iOS[75694:2295778] critical: 	12  CrashClickingMenu.iOS               0x000000010ec25429 xamarin_dyn_objc_msgSend + 217
+2017-06-16 19:38:14.558 CrashClickingMenu.iOS[75694:2295778] critical: 	13  ???                                 0x000000013374ab28 0x0 + 5158251304
+2017-06-16 19:38:14.558 CrashClickingMenu.iOS[75694:2295778] critical: 	14  ???                                 0x000000013374a792 0x0 + 5158250386
+2017-06-16 19:38:14.558 CrashC
+lickingMenu.iOS[75694:2295778] critical: 	15  ???                                 0x0000000132db81a3 0x0 + 5148213667
+2017-06-16 19:38:14.558 CrashClickingMenu.iOS[75694:2295778] critical: 	16  ???                                 0x0000000134344bb4 0x0 + 5170809780
+2017-06-16 19:38:14.559 CrashClickingMenu.iOS[75694:2295778] critical: 	17  ???                                 0x0000000134343b0c 0x0 + 5170805516
+2017-06-16 19:38:14.559 CrashClickingMenu.iOS[75694:2295778] critical: 	18  CrashClickingMenu.iOS               0x000000010ea73585 mono_jit_runtime_invoke + 1301
+2017-06-16 19:38:14.559 CrashClickingMenu.iOS[75694:2295778] critical: 	19  CrashClickingMenu.iOS               0x000000010eb2db88 do_runtime_invoke + 88
+2017-06-16 19:38:14.559 CrashClickingMenu.iOS[75694:2295778] critical: 	20  CrashClickingMenu.iOS               0x000000010eb7441a start_wrapper + 538
+2017-06-16 19:38:14.560 CrashClickingMenu.iOS[75694:2295778] critical: 	21  CrashClickingMenu.iOS               0x000000010ebf8fed inner_start_
+thread + 189
+2017-06-16 19:38:14.560 CrashClickingMenu.iOS[75694:2295778] critical: 	22  libsystem_pthread.dylib             0x000000011a87493b _pthread_body + 180
+2017-06-16 19:38:14.560 CrashClickingMenu.iOS[75694:2295778] critical: 	23  libsystem_pthread.dylib             0x000000011a874887 _pthread_body + 0
+2017-06-16 19:38:14.560 CrashClickingMenu.iOS[75694:2295778] critical: 	24  libsystem_pthread.dylib             0x000000011a87408d thread_start + 13
+2017-06-16 19:38:14.561 CrashClickingMenu.iOS[75694:2295778] critical: 
+=================================================================
+Got a SIGSEGV while executing native code. This usually indicates
+a fatal error in the mono runtime or one of the native libraries 
+used by your application.
+=================================================================
+InspectorDebugSession(4): HandleTargetEvent: TargetExited
+InspectorDebugSession(4): Disposed
+The app has been terminated.
+Launch failed. The app 'CrashClickingMenu.iOS' could not be launched on 'iPhone 5s iOS 10.3'. Error: An error occurred while executing MTouch. Please check the logs for more details.
+The app has been terminated.

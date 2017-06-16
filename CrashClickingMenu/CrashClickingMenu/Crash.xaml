@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             Title="Crash"
+             x:Class="CrashClickingMenu.Crash">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="DarkCyan">
+            <Label HorizontalOptions="Center" 
+                   Margin="0,50,0,0" 
+                   Text="Welcome to Xamarin Forms!" />
+            <Image x:Name="MyImage" 
+                   Margin="0,50,0,0"
+                   Source="Default-Portrait" 
+                   WidthRequest="50"
+                   HeightRequest="50"
+                   HorizontalOptions="Center"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

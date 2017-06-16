@@ -1,0 +1,14 @@
+﻿The project was crated from blank app, added 3 files : root, master and detail, nothing unusual, nothing special.
+
+
+Just lauch app, no matter simulator or real device, no matter release or debug.
+
+Start clicking on the left upper corner opening and closing menu.
+
+This menu animation will suddenly (from instant to up to like 5-7 minutes) conflict with your image animation that is run on main UI thread.
+
+Just don't stop clicking..
+
+
+
+Read other file in same dir for crash log.
